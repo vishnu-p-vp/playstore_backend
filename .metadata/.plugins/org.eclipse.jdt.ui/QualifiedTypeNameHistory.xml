@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="com.playstore.users.repo.RoleRepo"/>
+<fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+<fullyQualifiedTypeName name="com.playstore.users.service.RoleService"/>
+<fullyQualifiedTypeName name="com.playstore.users.service.UserService"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.Role"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.playstore.users.util.JwtUtil"/>
+<fullyQualifiedTypeName name="com.playstore.users.repo.UserRepo"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.User"/>
+<fullyQualifiedTypeName name="com.playstore.users.service.JwtService"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.JwtResponse"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.JwtRequest"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.AppEntity"/>
+<fullyQualifiedTypeName name="com.playstore.users.repo.AppRepo"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.RatingEntity"/>
+<fullyQualifiedTypeName name="com.playstore.users.service.AppServiceImpl"/>
+<fullyQualifiedTypeName name="com.playstore.users.Exceptions.AppNotFoundException"/>
+<fullyQualifiedTypeName name="com.playstore.users.Exceptions.AppCannotBeDeletedException"/>
+<fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreAuthorize"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="com.playstore.users.entity.Favourites"/>
+<fullyQualifiedTypeName name="antlr.collections.List"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.playstore.users.service.FavouritesService"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+</qualifiedTypeNameHistroy>
